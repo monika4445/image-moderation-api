@@ -1,4 +1,3 @@
-````markdown
 # NSFW Moderation Service
 
 Простой FastAPI‑сервис, который принимает изображение и проверяет его через Hugging Face модель `Falconsai/nsfw_image_detection`.
