@@ -5,7 +5,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/monika4445/image-moderation-api.git
 cd your-repo
 python3 -m venv venv
 source venv/bin/activate
